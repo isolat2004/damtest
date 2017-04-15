@@ -14,7 +14,7 @@ class Admin extends Controller {
       $erreur = [];
 
       if ( empty( $title ) ) {
-        $erreur['title'] = 'Titre obligatoire';
+        $erreur['title'] = 'Titre obligatoire ajout++++++';
       }
 
      // if ( empty( $url ) ) {
